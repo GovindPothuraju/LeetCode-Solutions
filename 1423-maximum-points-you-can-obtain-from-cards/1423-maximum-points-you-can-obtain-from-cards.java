@@ -1,6 +1,6 @@
 class Solution {
     public int maxScore(int[] cardPoints, int k) {
-        ArrayList<Integer> nums=new ArrayList<>();
+      /*  ArrayList<Integer> nums=new ArrayList<>();
         for(int num : cardPoints){
             nums.add(num);
         }
@@ -27,6 +27,22 @@ class Solution {
             if(r-l+1 == k){
                 ans=Math.max(ans,temp);
             }
+        }
+        return ans;*/
+
+        int n=cardPoints.length;
+        int temp=0;
+        for(int i=0;i<k;i++){
+            temp+=cardPoints[i];
+        }
+        if(k== n){
+            return temp;
+        }
+        int ans=temp;
+        for(int i=k-1;i>=0;i--){
+            temp-=cardPoints[i];
+            temp+=cardPoints[--n];
+            ans=Math.max(ans,temp);
         }
         return ans;
     }
