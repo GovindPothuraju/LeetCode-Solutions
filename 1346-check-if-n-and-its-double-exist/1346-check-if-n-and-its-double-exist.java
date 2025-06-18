@@ -4,16 +4,16 @@ class Solution {
         int n=arr.length;
         for(int i=0;i<n;i++){
             int val=arr[i]*2;
-            int l=i+1;
+            int l=0;
             int r=n-1;
             while(l<=r){
                 int mid=l+(r-l)/2;
-                if(arr[mid]==val){
+                if(arr[mid]==val && mid !=i){
                     return true;
                 }else if(arr[mid]<val){
-                    r=mid-1;
-                }else{
                     l=mid+1;
+                }else{
+                    r=mid-1;
                 }
             }
         }
