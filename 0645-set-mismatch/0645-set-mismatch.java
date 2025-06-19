@@ -19,7 +19,7 @@ class Solution {
         return res;*/
 
         // cycle sort bexz 1:n
-        int n=nums.length;
+        /*int n=nums.length;
         int i=0;
         while(i<n){
             int correct=nums[i]-1;
@@ -38,6 +38,23 @@ class Solution {
                 res[1]=i+1;
             }
         }
-        return res;
+        return res;*/
+        // using count sort also
+        int n=nums.length;
+        int freq[]=new int[nums.length+1];
+        int ans[]=new int[2];
+        for(int i=0;i<n;i++){
+            freq[nums[i]]++;
+            if(freq[nums[i]]==2){
+                ans[0]=nums[i];
+            }
+        }
+        for(int i=1;i<=n;i++){
+            if(freq[i]==0){
+                ans[1]=i;
+                break;
+            }
+        }
+        return ans;
     }
 }
