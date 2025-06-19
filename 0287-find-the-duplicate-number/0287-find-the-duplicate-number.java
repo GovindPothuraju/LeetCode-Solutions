@@ -1,6 +1,6 @@
 class Solution {
-    public int findDuplicate(int[] nums) {
-        HashMap<Integer,Integer> hm=new HashMap<>();
+    public int findDuplicate(int[] arr) {
+        /*HashMap<Integer,Integer> hm=new HashMap<>();
         int n=nums.length;
         for(int i=0;i<n;i++){
             int key=nums[i];
@@ -10,6 +10,24 @@ class Solution {
                 return key;
             }
         }
-        return 0;
+        return 0;*/
+        // using cycle sort
+        int n=arr.length;
+        int i=0;
+        while(i<n){
+            if(arr[i] != i+1){
+                int correct=arr[i]-1;
+                if(arr[i] != arr[correct]){
+                    int temp=arr[i];
+                    arr[i]=arr[correct];
+                    arr[correct]=temp;
+                }else{
+                    return arr[i];
+                }
+            }else{
+                i++;
+            }
+        }
+        return -1;
     }
 }
