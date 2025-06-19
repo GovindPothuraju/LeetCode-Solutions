@@ -15,17 +15,18 @@ class Solution {
         int n=arr.length;
         int i=0;
         while(i<n){
-            if(arr[i] != i+1){
                 int correct=arr[i]-1;
                 if(arr[i] != arr[correct]){
                     int temp=arr[i];
                     arr[i]=arr[correct];
                     arr[correct]=temp;
                 }else{
-                    return arr[i];
+                    i++;
                 }
-            }else{
-                i++;
+        }
+        for(i=0;i<n;i++){
+            if(arr[i] != i+1){
+                return arr[i];
             }
         }
         return -1;
