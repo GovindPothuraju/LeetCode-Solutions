@@ -30,7 +30,7 @@ class Solution {
     
 
     // using two stacks
-    public List<Integer> postorderTraversal(TreeNode root){
+    /*public List<Integer> postorderTraversal(TreeNode root){
         if(root == null) return new ArrayList<>();
         Stack<TreeNode> st1=new Stack<>();
         Stack<TreeNode> st2=new Stack<>();
@@ -49,6 +49,30 @@ class Solution {
         
         while(!st2.isEmpty()){
             ans.add(st2.pop().val);
+        }
+        return ans;
+    }*/
+
+    // using one stack
+    public List<Integer> postorderTraversal(TreeNode root){
+        ArrayList<Integer> ans=new ArrayList<>();
+        Stack<TreeNode> st=new Stack<>();
+        TreeNode curr=root;
+        TreeNode lastVisited = null;
+        while(!st.isEmpty() || curr != null){
+            // push all values to stack until i reach the leftmost element
+            while(curr != null){
+                st.push(curr);
+                curr=curr.left;
+            }
+
+            TreeNode peekNode=st.peek();
+            if(peekNode.right != null && lastVisited !=peekNode.right){
+                curr=peekNode.right;
+            }else{
+                ans.add(peekNode.val);
+                lastVisited= st.pop();
+            }
         }
         return ans;
     }
