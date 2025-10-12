@@ -14,6 +14,7 @@
  * }
  */
 class Solution {
+    /* using queue iteration
     public List<List<Integer>> levelOrder(TreeNode root) {
         Queue<TreeNode> q= new LinkedList<>();
         List<List<Integer>> ans=new ArrayList<>();
@@ -31,5 +32,22 @@ class Solution {
             ans.add(arr);
         }
         return ans;
+    }*/
+
+    // using recursion
+    public List<List<Integer>> levelOrder(TreeNode root){
+        
+        List<List<Integer>> ans=new ArrayList<>();
+        traversal(root,0,ans);
+        return ans;
+    }
+    public void traversal (TreeNode curr,int level,List<List<Integer>> ans){
+        if(curr == null) return;
+        if(ans.size()<=level){
+            ans.add(new ArrayList<>());
+        }
+        ans.get(level).add(curr.val);
+        traversal(curr.left,level+1,ans);
+        traversal(curr.right,level+1,ans);
     }
 }
