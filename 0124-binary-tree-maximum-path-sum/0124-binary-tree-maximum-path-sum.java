@@ -23,16 +23,14 @@ class Solution {
     }
     private int traversal(TreeNode curr){
         if(curr==null) return 0;
-        int leftSum = traversal(curr.left);
-        int rightSum = traversal(curr.right);
+        int leftSum = Math.max(0,traversal(curr.left));
+        int rightSum = Math.max(0,traversal(curr.right));
 
-        int temp1=curr.val+rightSum;
-        int temp2=curr.val+rightSum;
-        int temp3=curr.val+leftSum+rightSum;
-
-        int max = Math.max(curr.val , Math.max(Math.max(temp1, temp2), temp3));
-
-        res=Math.max(res,max);
-        return max;
+        int maxVal=curr.val+leftSum+rightSum;
+        int returnMax= Math.max((leftSum+curr.val),(rightSum+curr.val));
+        
+        res=Math.max(res,maxVal);
+        
+        return returnMax;
     }
 }
