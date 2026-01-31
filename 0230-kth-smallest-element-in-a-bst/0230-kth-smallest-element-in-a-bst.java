@@ -14,15 +14,35 @@
  * }
  */
 class Solution {
-    ArrayList<Integer> arr=new ArrayList<>();
+    // 1. inorder
+    // ArrayList<Integer> arr=new ArrayList<>();
+    // public int kthSmallest(TreeNode root, int k) {
+    //     inorder(root);
+    //     return arr.get(k-1);
+    // }
+    // private void inorder(TreeNode curr){
+    //     if(curr==null) return;
+    //     inorder(curr.left);
+    //     arr.add(curr.val);
+    //     inorder(curr.right);
+    // }
+
+    // 2. bottom up approach
+    int res=-1;
     public int kthSmallest(TreeNode root, int k) {
-        inorder(root);
-        return arr.get(k-1);
+        traversal(root,k);
+        return res;
     }
-    private void inorder(TreeNode curr){
-        if(curr==null) return;
-        inorder(curr.left);
-        arr.add(curr.val);
-        inorder(curr.right);
+    private int traversal(TreeNode curr,int k){
+        if(curr==null) return 0;
+        int left=traversal(curr.left,k);
+        
+        left++;
+        right++;
+        if(left+right == k && res==-1){
+            res=curr.val;
+        }
+        
+        return left+right;
     }
 }
