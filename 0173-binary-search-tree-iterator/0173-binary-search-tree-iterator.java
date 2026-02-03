@@ -14,24 +14,50 @@
  * }
  */
 class BSTIterator {
-    int idx=0;
-    ArrayList<Integer> arr=new ArrayList<>();
+    // 1. using inorder traversal
+    // int idx=0;
+    // ArrayList<Integer> arr=new ArrayList<>();
+    // public BSTIterator(TreeNode root) {
+    //     traversal(root);
+    // }
+    // private void traversal(TreeNode curr){
+    //     if(curr==null)return;
+    //     traversal(curr.left);
+    //     arr.add(curr.val);
+    //     traversal(curr.right);
+    // }
+    
+    // public int next() {
+    //     return arr.get(idx++);
+    // }
+    
+    // public boolean hasNext() {
+    //     return idx<arr.size();
+    // }
+    // 2.using stack o(h)
+    Stack<TreeNode> st=new Stack<>();
     public BSTIterator(TreeNode root) {
-        traversal(root);
-    }
-    private void traversal(TreeNode curr){
-        if(curr==null)return;
-        traversal(curr.left);
-        arr.add(curr.val);
-        traversal(curr.right);
+        TreeNode curr=root;
+        while(curr != null){
+            st.push(curr);
+            curr=curr.left;
+        }
     }
     
     public int next() {
-        return arr.get(idx++);
+        TreeNode top=st.pop();
+        if(top.right!=null){
+            TreeNode temp=top.right;
+            while(temp != null){
+                st.push(temp);
+                temp=temp.left;
+            }
+        }
+        return top.val;
     }
     
     public boolean hasNext() {
-        return idx<arr.size();
+        return !st.isEmpty();
     }
 }
 
