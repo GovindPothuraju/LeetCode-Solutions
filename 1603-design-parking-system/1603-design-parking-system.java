@@ -2,10 +2,10 @@ class ParkingSystem {
     private int big;
     private int medium;
     private int small;
-    public ParkingSystem(int big, int medium, int small) {
-        this.big=big;
-        this.medium=medium;
-        this.small=small;
+    public ParkingSystem(int b, int m, int s) {
+        this.big=b;
+        this.medium=m;
+        this.small=s;
     }
     
     public boolean addCar(int carType) {
