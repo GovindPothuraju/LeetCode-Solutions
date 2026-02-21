@@ -1,38 +1,61 @@
 class Solution {
-    public int[] sortArray(int[] arr) {
-        mergesort(arr,0,arr.length-1);
-        return arr;
+    ArrayList<Integer> arr = new ArrayList<>();
+    int n;
+
+    public int[] sortArray(int[] nums) {
+
+        this.n = nums.length;
+
+        for(int i = 0; i < n; i++){
+            arr.add(nums[i]);
+        }
+
+        // 1️ Build max heap
+        for(int i = n/2 - 1; i >= 0; i--){
+            heapifyDown(i);
+        }
+
+        // 2 Heap Sort
+        while(n > 1){
+
+            int temp = arr.get(0);
+            arr.set(0, arr.get(n-1));
+            arr.set(n-1, temp);
+
+            n--;
+
+            heapifyDown(0);
+        }
+
+        for(int i = 0; i < arr.size(); i++){
+            nums[i] = arr.get(i);
+        }
+
+        return nums;
     }
-    public void mergesort(int[] arr,int l,int r){
-        if(l<r){
-        int mid=l+(r-l)/2;
-        mergesort(arr,l,mid);
-        mergesort(arr,mid+1,r);
-        merge(arr,l,mid,r);}
-    }
-    
-    public void merge(int[] arr ,int l,int mid,int r){
-        int[] temp=new int [r-l+1];
-        int i=l;
-        int j=mid+1;
-        int k=0;
-        while(i<=mid && j<=r){
-            if(arr[i]<arr[j]){
-                temp[k++]=arr[i++];
-            }else{
-                temp[k++]=arr[j++];
-            }
+
+    private void heapifyDown(int i){
+
+        int leftChild = 2*i + 1;
+        int rightChild = 2*i + 2;
+
+        int largest = i;
+
+        if(leftChild < n && arr.get(leftChild) > arr.get(largest)){
+            largest = leftChild;
         }
-        while(i<=mid){
-            temp[k++]=arr[i++];
+
+        if(rightChild < n && arr.get(rightChild) > arr.get(largest)){
+            largest = rightChild;
         }
-        while (j<=r){
-            temp[k++]=arr[j++];
+
+        if(largest != i){
+
+            int temp = arr.get(largest);
+            arr.set(largest, arr.get(i));
+            arr.set(i, temp);
+
+            heapifyDown(largest);
         }
-        for (int p = 0; p < temp.length; p++) {
-            arr[l + p] = temp[p];
-        }
-   
     }
 }
-
