@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0621-task-scheduler](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0645-set-mismatch](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/master/1137-height-checker) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0217-contains-duplicate) |
+| [0621-task-scheduler](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0645-set-mismatch](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1635-number-of-good-pairs) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0169-majority-element](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0217-contains-duplicate) |
+| [0621-task-scheduler](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0645-set-mismatch](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/master/1137-height-checker) |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [1635-number-of-good-pairs](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1635-number-of-good-pairs) |
 ## Math
 | Problem Name | Difficulty |
@@ -82,4 +86,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0621-task-scheduler](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0621-task-scheduler](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 <!---LeetCode Topics End-->
