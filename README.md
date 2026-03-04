@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/master/1137-height-checker) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1635-number-of-good-pairs](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1635-number-of-good-pairs) |
 | [2634-minimum-common-value](https://github.com/GovindPothuraju/DSA-Problems/tree/master/2634-minimum-common-value) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/master/1137-height-checker) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [2634-minimum-common-value](https://github.com/GovindPothuraju/DSA-Problems/tree/master/2634-minimum-common-value) |
 ## Simulation
 | Problem Name | Difficulty |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0621-task-scheduler](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
