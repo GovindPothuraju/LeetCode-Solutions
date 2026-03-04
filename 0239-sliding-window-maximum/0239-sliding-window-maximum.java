@@ -43,22 +43,43 @@ class Solution {
         }
         return res;*/
 
-        Deque<Integer> q=new LinkedList<>();
+        // using dequeue
+        // Deque<Integer> q=new LinkedList<>();
+        // int n=arr.length;
+        // int j=0;
+        // int res[]=new int[n-k+1];
+        // for(int i=0;i<n;i++){
+        //     if(!q.isEmpty() && q.peek()==i-k){
+        //         q.removeFirst();
+        //     }
+        //     while(!q.isEmpty() && arr[q.peekLast()]<arr[i]){
+        //         q.removeLast();
+        //     }
+        //     q.offer(i);
+        //     if(i>=k-1){
+        //         res[j++]=arr[q.peek()];
+        //     }
+        // }
+        // return res;
+
+
+        // using priority queue
         int n=arr.length;
-        int j=0;
-        int res[]=new int[n-k+1];
-        for(int i=0;i<n;i++){
-            if(!q.isEmpty() && q.peek()==i-k){
-                q.removeFirst();
-            }
-            while(!q.isEmpty() && arr[q.peekLast()]<arr[i]){
-                q.removeLast();
-            }
-            q.offer(i);
-            if(i>=k-1){
-                res[j++]=arr[q.peek()];
-            }
+        PriorityQueue<int[]> pq=new PriorityQueue<>((a,b)->b[0]-a[0]);
+        int res[] = new int[n-k+1];
+        int l=0;
+        for(int i=0;i<k;i++){
+            pq.add(new int[]{arr[i],i});
         }
+        res[l++]=pq.peek()[0];
+        for(int i=k;i<n;i++){
+            pq.add(new int[]{arr[i],i});
+
+            while(pq.peek()[1]<=i-k){
+                pq.poll();
+            }
+            res[l++]=pq.peek()[0];     
+        } 
         return res;
     }
 }
