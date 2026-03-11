@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0645-set-mismatch](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0645-set-mismatch) |
+| [0763-partition-labels](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0782-jewels-and-stones](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1635-number-of-good-pairs) |
 | [2406-decode-the-message](https://github.com/GovindPothuraju/DSA-Problems/tree/master/2406-decode-the-message) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0205-isomorphic-strings) |
+| [0763-partition-labels](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0782-jewels-and-stones](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0782-jewels-and-stones) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1894-merge-strings-alternately](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1894-merge-strings-alternately) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0027-remove-element](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0027-remove-element) |
 | [0455-assign-cookies](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0763-partition-labels](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [1019-squares-of-a-sorted-array](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1894-merge-strings-alternately) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
+| [0763-partition-labels](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0860-lemonade-change](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [1029-two-city-scheduling](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1029-two-city-scheduling/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
