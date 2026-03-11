@@ -1,5 +1,5 @@
 class Solution {
-    public List<Integer> partitionLabels(String s) {
+    /* public List<Integer> partitionLabels(String s) {
         HashMap<Character,Integer> hm=new HashMap<>();
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
@@ -36,5 +36,32 @@ class Solution {
             }
         }
         return true;
+    } */
+
+    public List<Integer> partitionLabels(String s){
+        int[] arr=new int[26];
+        int n=s.length();
+        for(int i=0;i<n;i++){
+            char ch=s.charAt(i);
+            arr[ch-'a']=i;
+        }
+        System.out.println(Arrays.toString(arr));
+
+    
+        List<Integer> res=new ArrayList<>();
+        int start=0;
+        int end=0;
+        for(int i=0;i<n;i++){
+            char ch=s.charAt(i);
+            if(arr[ch-'a'] >= end){
+                end=arr[ch-'a'];
+            }
+            if(i==end){
+                res.add(end-start+1);
+                start=i+1;
+                end=i+1;
+            }
+        }
+        return res;
     }
 }
