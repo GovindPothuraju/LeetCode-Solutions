@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0027-remove-element) |
+| [0056-merge-intervals](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0057-insert-interval/) | Medium |
 | [0078-subsets](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0169-majority-element](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
