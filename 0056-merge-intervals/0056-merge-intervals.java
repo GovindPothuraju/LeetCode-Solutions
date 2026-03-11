@@ -1,33 +1,23 @@
 class Solution {
     public int[][] merge(int[][] arr) {
+        Arrays.sort(arr, (a,b) -> a[0] - b[0]);
         int n=arr.length;
+        ArrayList<int[]> res=new ArrayList<>();
 
-        Arrays.sort(arr, (a, b) -> Integer.compare(a[0], b[0]));
+        int st=arr[0][0];
+        int ed=arr[0][1];
 
-         List<List<Integer>> ans = new ArrayList<>();
-        for(int i=0;i<n;i++){
-            int start=arr[i][0];
-            int end=arr[i][1];
-
-            if(!ans.isEmpty() && end <= ans.get(ans.size()-1).get(1)){
-                continue;
+        for(int i=1;i<arr.length;i++){
+            if(arr[i][0] <= ed){
+                st=Math.min(st,arr[i][0]);
+                ed=Math.max(ed,arr[i][1]);
+            }else{
+                res.add(new int[]{st,ed});
+                st=arr[i][0];
+                ed=arr[i][1];
             }
-
-            for(int j=i+1;j<n;j++){
-                if(arr[j][0]<=end){
-                    end=Math.max(end,arr[j][1]);
-                }else{
-                    break;
-                }
-            }
-            ans.add(Arrays.asList(start,end));
         }
-        int[][] result = new int[ans.size()][2];
-        for (int i = 0; i < ans.size(); i++) {
-            result[i][0] = ans.get(i).get(0);
-            result[i][1] = ans.get(i).get(1);
-        }
-
-        return result;
+        res.add(new int[]{st,ed});
+        return res.toArray(new int[res.size()][]);
     }
 }
