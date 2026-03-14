@@ -1,5 +1,6 @@
 class Solution {
-    public int leastInterval(char[] tasks, int n) {
+    // using prority queue
+    /*public int leastInterval(char[] tasks, int n) {
         int[] freq=new int[26];
         for(int i=0;i<tasks.length;i++){
             freq[tasks[i]-'A']++;
@@ -33,5 +34,24 @@ class Solution {
             }
         }
         return time;
+    }*/
+
+    // using greedy formula
+    public int leastInterval(char[] tasks, int n) {
+        HashMap<Character,Integer> hm=new HashMap<>();
+        int maxFreq=0;
+        for(char ch:tasks){
+            hm.put(ch,hm.getOrDefault(ch,0)+1);
+            maxFreq=Math.max(maxFreq,hm.get(ch));
+        }
+
+        int maxOccur=0;
+        for(char key:hm.keySet()){
+            if(hm.get(key)==maxFreq){
+                maxOccur++;
+            }
+        }
+        int cycles = ((maxFreq-1)*(n+1))+maxOccur;
+        return Math.max(tasks.length,cycles);
     }
 }
