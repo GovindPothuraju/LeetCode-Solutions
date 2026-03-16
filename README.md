@@ -173,4 +173,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0437-path-sum-iii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0437-path-sum-iii/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0437-path-sum-iii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0437-path-sum-iii/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0437-path-sum-iii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0437-path-sum-iii/) | Medium |
 <!---LeetCode Topics End-->
