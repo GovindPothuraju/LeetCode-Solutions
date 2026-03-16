@@ -3,7 +3,7 @@ class Solution {
         int n=strs.length;
         HashMap<String,ArrayList<String>> hm=new HashMap<>();
 
-        String[] temp=new String[n];
+        //String[] temp=new String[n];
         for(int i=0;i<n;i++){
             /* this takes o(m log m) time can we reduce it by generating a hash key
             char[] charArray = strs[i].toCharArray();
@@ -15,7 +15,7 @@ class Solution {
             }
 
             String key="";
-            for(int j=0;j<25;j++){
+            for(int j=0;j<26;j++){
                 key+="#"+freq[j];
             }
             if(!hm.containsKey(key)){
