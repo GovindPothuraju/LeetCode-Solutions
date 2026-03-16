@@ -1,26 +1,28 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
         int n=strs.length;
+        HashMap<String,ArrayList<String>> hm=new HashMap<>();
 
         String[] temp=new String[n];
         for(int i=0;i<n;i++){
+            /* this takes o(m log m) time can we reduce it by generating a hash key
             char[] charArray = strs[i].toCharArray();
             Arrays.sort(charArray);
-            temp[i]= new String(charArray);
-        }
-
-        HashMap<String,ArrayList<String>> hm=new HashMap<>();
-        for(int i=0;i<n;i++){
-            if(!hm.containsKey(temp[i])){
-                hm.put(temp[i],new ArrayList<>());
+            temp[i]= new String(charArray);*/
+            int[] freq=new int[26];
+            for(int j=0;j<strs[i].length();j++){
+                freq[strs[i].charAt(j)-'a']++;
             }
-            hm.get(temp[i]).add(strs[i]);
-        }
 
-        List<List<String>> res=new ArrayList<>();
-        for(String key:hm.keySet()){
-            res.add(hm.get(key));
+            String key="";
+            for(int j=0;j<25;j++){
+                key+="#"+freq[j];
+            }
+            if(!hm.containsKey(key)){
+                hm.put(key,new ArrayList<>());
+            }
+            hm.get(key).add(strs[i]);
         }
-        return res;
+        return new ArrayList<>(hm.values());
     }
 }
