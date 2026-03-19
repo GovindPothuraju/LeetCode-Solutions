@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0038-count-and-say](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0678-valid-parenthesis-string](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
