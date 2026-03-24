@@ -7,10 +7,10 @@ class MyCalendarThree {
     public int book(int startTime, int endTime) {
         events.put(startTime,events.getOrDefault(startTime,0)+1);
         events.put(endTime,events.getOrDefault(endTime,0)-1);
-        int max=0;
+        int max=Integer.MIN_VALUE;
         int curr=0;
-        for(int e:events.keySet()){
-            curr+=events.get(e);
+        for(int e:events.values()){
+            curr+=e;
             max=Math.max(max,curr);
         }
         return max;
