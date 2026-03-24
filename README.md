@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [1019-squares-of-a-sorted-array](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1029-two-city-scheduling/) | Medium |
+| [1094-car-pooling](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1094-car-pooling/) | Medium |
 | [1137-height-checker](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1029-two-city-scheduling/) | Medium |
+| [1094-car-pooling](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1094-car-pooling/) | Medium |
 | [1137-height-checker](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1094-car-pooling](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1094-car-pooling/) | Medium |
 | [1806-count-of-matches-in-tournament](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1806-count-of-matches-in-tournament) |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0621-task-scheduler](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
+| [1094-car-pooling](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1094-car-pooling/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0731-my-calendar-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [0848-shifting-letters](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0848-shifting-letters/) | Medium |
+| [1094-car-pooling](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1094-car-pooling/) | Medium |
 | [1854-maximum-population-year](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1854-maximum-population-year/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2381-shifting-letters-ii/) | Medium |
 | [3355-zero-array-transformation-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3355-zero-array-transformation-i/) | Medium |
