@@ -26,14 +26,7 @@ class Solution {
 
     // 2)using difference array
     public boolean carPooling(int[][] trips, int capacity){
-
-        int max=0;
-        for(int i=0;i<trips.length;i++){
-            max=Math.max(max,trips[i][1]);
-            max=Math.max(max,trips[i][2]);
-        }
-
-        int[] diff=new int[max+1];
+        int[] diff=new int[1001];
         for(int i=0;i<trips.length;i++){
             int st=trips[i][1];
             int end=trips[i][2];
@@ -42,13 +35,10 @@ class Solution {
             diff[st]+=val;
             diff[end]-=val;
         }
-
-        for(int i=1;i<=max;i++){
-            diff[i]+=diff[i-1];
-        }
-        System.out.println(Arrays.toString(diff));
-        for(int i=0;i<=max;i++){
-            if(diff[i]>capacity)return false;
+        int curr=0;
+        for(int i=0;i<1001;i++){
+            curr+=diff[i];
+            if(curr > capacity)return false;
         }
         return true;
     }
