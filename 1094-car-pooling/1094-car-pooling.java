@@ -1,5 +1,6 @@
 class Solution {
-    public boolean carPooling(int[][] trips, int capacity) {
+    // 1) using line sweep algorithm
+   /*public boolean carPooling(int[][] trips, int capacity){
         ArrayList<int[]> events=new ArrayList<>();
 
         for(int i=0;i<trips.length;i++){
@@ -19,6 +20,35 @@ class Solution {
             System.out.println(Arrays.toString(e));
         }
 
+        return true;
+    }*/
+
+
+    // 2)using difference array
+    public boolean carPooling(int[][] trips, int capacity){
+
+        int max=0;
+        for(int i=0;i<trips.length;i++){
+            max=Math.max(max,trips[i][1]);
+            max=Math.max(max,trips[i][2]);
+        }
+
+        int[] diff=new int[max+1];
+        for(int i=0;i<trips.length;i++){
+            int st=trips[i][1];
+            int end=trips[i][2];
+            int val=trips[i][0];
+
+            diff[st]+=val;
+            if(end+1<max)diff[end+1]-=val;
+        }
+
+        for(int i=1;i<max;i++){
+            diff[i]+=diff[i-1];
+        }
+        for(int i=0;i<max;i++){
+            if(diff[i]>capacity)return false;
+        }
         return true;
     }
 }
