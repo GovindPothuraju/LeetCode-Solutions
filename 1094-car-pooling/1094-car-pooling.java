@@ -40,13 +40,14 @@ class Solution {
             int val=trips[i][0];
 
             diff[st]+=val;
-            if(end+1<max)diff[end+1]-=val;
+            diff[end]-=val;
         }
 
-        for(int i=1;i<max;i++){
+        for(int i=1;i<=max;i++){
             diff[i]+=diff[i-1];
         }
-        for(int i=0;i<max;i++){
+        System.out.println(Arrays.toString(diff));
+        for(int i=0;i<=max;i++){
             if(diff[i]>capacity)return false;
         }
         return true;
