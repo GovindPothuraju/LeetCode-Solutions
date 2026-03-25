@@ -1,5 +1,6 @@
 class Solution {
-    public int[] corpFlightBookings(int[][] bookings, int n) {
+    // using difference array technique
+    /*public int[] corpFlightBookings(int[][] bookings, int n) {
         int[] diff=new int[n+1];
         for(int[] book:bookings){
             int st=book[0];
@@ -17,6 +18,21 @@ class Solution {
             res[k++]=diff[i];
         }
         System.out.println(Arrays.toString(diff));
+        return res;
+    }*/
+
+    // using line sweep algorithm
+    public int[] corpFlightBookings(int[][] bookings, int n) {
+        int[] res=new int[n];
+        for(int[] book: bookings){
+            res[book[0]-1]+=book[2];
+            if(book[1] < n){
+                res[book[1]]-=book[2];
+            }
+        }
+        for(int i=1;i<n;i++){
+            res[i]+=res[i-1];
+        }
         return res;
     }
 }
