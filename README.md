@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0455-assign-cookies](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0763-partition-labels](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [1019-squares-of-a-sorted-array](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -244,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0731-my-calendar-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0732-my-calendar-iii/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
