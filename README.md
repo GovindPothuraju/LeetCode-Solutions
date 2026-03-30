@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0645-set-mismatch](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0645-set-mismatch) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0645-set-mismatch](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0645-set-mismatch) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
