@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1635-number-of-good-pairs](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1635-number-of-good-pairs) |
+| [1710-maximum-units-on-a-truck](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1854-maximum-population-year](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1854-maximum-population-year/) | Easy |
 | [1943-describe-the-painting](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1943-describe-the-painting/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2381-shifting-letters-ii/) | Medium |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1094-car-pooling/) | Medium |
 | [1137-height-checker](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1710-maximum-units-on-a-truck](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1943-describe-the-painting](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1943-describe-the-painting/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Counting
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [1029-two-city-scheduling](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
+| [1710-maximum-units-on-a-truck](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
