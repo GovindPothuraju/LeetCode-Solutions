@@ -4,20 +4,18 @@ class Solution {
         int des=graph.length-1;
         List<Integer> path=new ArrayList<>();
         path.add(0);
-        backtrack(path,0,des,graph,new boolean[graph.length]);
+        backtrack(path,0,des,graph);
         return res;
     }
-    private void backtrack(List<Integer> path,int s,int d,int[][] graph,boolean[] visited){
+    private void backtrack(List<Integer> path,int s,int d,int[][] graph){
         if(s==d){
             res.add(new ArrayList<>(path));
             return;
         }
         for(int node:graph[s]){
-            visited[node]=true;
             path.add(node);
-            backtrack(path,node,d,graph,visited);
+            backtrack(path,node,d,graph);
             path.remove(path.size()-1);
-            visited[node]=false;
         }
     }
 }
