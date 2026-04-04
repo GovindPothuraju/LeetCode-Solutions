@@ -19,7 +19,7 @@ class Node {
 */
 
 class Solution {
-    public Node cloneGraph(Node root) {
+    /*public Node cloneGraph(Node root) {
         if(root==null)return root;
 
         Queue<Node> q=new LinkedList<>();
@@ -36,6 +36,33 @@ class Solution {
             for(Node nei:curr.neighbors){
                 if(!hm.containsKey(nei)){
                     q.add(nei);
+                    hm.put(nei,new Node(nei.val));
+                }
+                // get current clone value
+                Node cloneCurr=hm.get(curr);
+                // add neighbous to current clone 
+                cloneCurr.neighbors.add(hm.get(nei));
+            }
+        }
+        return cloneRoot;
+    }*/
+    public Node cloneGraph(Node root) {
+        if(root==null)return root;
+
+        Stack<Node> st=new Stack<>();
+        HashMap<Node,Node> hm=new HashMap<>();
+
+        Node cloneRoot = new Node(root.val);
+        hm.put(root,cloneRoot);
+
+        st.push(root);
+
+        while(!st.isEmpty()){
+            Node curr=st.pop();
+            // visit all neighbours
+            for(Node nei:curr.neighbors){
+                if(!hm.containsKey(nei)){
+                    st.push(nei);
                     hm.put(nei,new Node(nei.val));
                 }
                 // get current clone value
