@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0437-path-sum-iii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0437-path-sum-iii/) | Medium |
+| [0547-number-of-provinces](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
@@ -270,16 +271,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
+| [0547-number-of-provinces](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
+| [0547-number-of-provinces](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
