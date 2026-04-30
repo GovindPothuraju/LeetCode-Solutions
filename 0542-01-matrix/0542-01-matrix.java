@@ -63,7 +63,7 @@ class Solution {
                     q.add(new int[]{i,j,0});
                     res[i][j]=0;
                 }else{
-                    res[i][j]=-1;
+                    res[i][j]=-1;// use this instead of boolean matrix
                 }
             }
         }
@@ -78,25 +78,25 @@ class Solution {
                 if(row > 0 && !visited[row-1][col]){
                     visited[row-1][col]=true;
                     res[row-1][col]=val+1;
-                    q.add(new int[]{row-1,col,res[row-1][col]});
+                    q.add(new int[]{row-1,col,val+1});
                 }
                 // left
                 if(col>0 && !visited[row][col-1]){
                     visited[row][col-1]=true;
                     res[row][col-1]=val+1;
-                    q.add(new int[]{row,col-1,res[row][col-1]});
+                    q.add(new int[]{row,col-1,val+1});
                 }
                 // bottom
                 if(row<n-1 && !visited[row+1][col]){
                     visited[row+1][col]=true;
                     res[row+1][col]=val+1;
-                    q.add(new int[]{row+1,col,res[row+1][col]});
+                    q.add(new int[]{row+1,col,val+1});
                 }
                 //right
                 if(col<m-1 && !visited[row][col+1]){
                     visited[row][col+1]=true;
                     res[row][col+1]=val+1;
-                    q.add(new int[]{row,col+1,res[row][col+1]});
+                    q.add(new int[]{row,col+1,val+1});
                 }
             }
         }
