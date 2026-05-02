@@ -3,46 +3,30 @@ class Solution {
         int n=board.length;
         int m=board[0].length;
 
-        // ckeck first row 
+        // ckeck first row  and last row
         for(int j=0;j<m;j++){
             if(board[0][j]=='O'){
                 backtrack(0,j,n,m,board);
             }
-        }
-        //check first col
-        for(int i=0;i<n;i++){
-            if(board[i][0]=='O'){
-                backtrack(i,0,n,m,board);
-            }
-        }
-        // check last row
-        for(int j=0;j<m;j++){
             if(board[n-1][j]=='O'){
                 backtrack(n-1,j,n,m,board);
             }
         }
-        // check last col
+        //check first col and last col instead of 2 times
         for(int i=0;i<n;i++){
+            if(board[i][0]=='O'){
+                backtrack(i,0,n,m,board);
+            }
             if(board[i][m-1]=='O'){
                 backtrack(i,m-1,n,m,board);
             }
         }
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                System.out.print(board[i][j]+" ");
-            }
-            System.out.println();
-        }
+        // convert 'O'->'X' and 'T'->'O'
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(board[i][j]=='O'){
                     board[i][j]='X';
-                }
-            }
-        }
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(board[i][j]=='T'){
+                }else if(board[i][j]=='T'){
                     board[i][j]='O';
                 }
             }
