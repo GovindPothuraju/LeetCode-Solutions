@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0994-rotting-oranges](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1019-squares-of-a-sorted-array](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1020-number-of-enclaves](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1029-two-city-scheduling](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1094-car-pooling](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1109-corporate-flight-bookings/) | Medium |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0542-01-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Queue
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0437-path-sum-iii/) | Medium |
 | [0547-number-of-provinces](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [1020-number-of-enclaves](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0994-rotting-oranges](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [1020-number-of-enclaves](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
