@@ -16,7 +16,10 @@ class Solution {
         Arrays.fill(dist,Integer.MAX_VALUE);
         dist[k]=0;
 
-        Queue<int[]> q=new LinkedList<>();
+        // Queue<int[]> q=new LinkedList<>();
+        PriorityQueue<int[]> q=new PriorityQueue<>(
+            (a,b)->a[1]-b[1]
+        );
         q.add(new int[]{k,0});
 
         while(!q.isEmpty()){
