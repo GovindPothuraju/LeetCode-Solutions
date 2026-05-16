@@ -63,35 +63,28 @@ class Solution {
 
         // build adjacency list
         ArrayList<ArrayList<int[]>> adj = new ArrayList<>();
-
         for (int i = 0; i < n; i++) {
             adj.add(new ArrayList<>());
         }
-
         for (int[] temp : flights) {
             int from = temp[0];
             int to = temp[1];
             int price = temp[2];
-
             adj.get(from).add(new int[]{to, price});
         }
 
         // dist[node] = minimum cost to reach node
         int[] dist = new int[n];
-
         Arrays.fill(dist, Integer.MAX_VALUE);
-
         dist[src] = 0;
 
         // {node , cost , stops}
+        // use level order traversal because at each level my stops increse one by one when i go beyond k then stop the process
         Queue<int[]> q = new LinkedList<>();
-
         q.add(new int[]{src, 0, 0});
 
         while (!q.isEmpty()) {
-
             int[] temp = q.poll();
-
             int node = temp[0];
             int cost = temp[1];
             int stops = temp[2];
@@ -100,20 +93,19 @@ class Solution {
             if (stops > k) continue;
 
             for (int[] nei : adj.get(node)) {
-
                 int to = nei[0];
                 int price = nei[1];
-
-                // relaxation
-                if (cost + price < dist[to]) {
-
+                if (dist[to] > cost + price ) {
                     dist[to] = cost + price;
-
                     q.add(new int[]{to, cost + price, stops + 1});
                 }
             }
         }
+        // if i can't reach the destination
+        if(dist[dst]==Integer.MAX_VALUE){
+            return -1;
+        }
 
-        return dist[dst] == Integer.MAX_VALUE ? -1 : dist[dst];
+        return dist[dst];
     }
 }
