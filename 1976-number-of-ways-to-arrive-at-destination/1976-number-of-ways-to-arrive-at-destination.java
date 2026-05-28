@@ -34,10 +34,15 @@ class Solution {
             int node=(int)temp[0];
             long time=temp[1];
 
+            // ignore stale or old values
+            if(time > dist[node]){
+                continue;
+            }
+
             for(int[] nei :adj.get(node)){
                 int adjNode=nei[0];
                 int adjTime = nei[1];
-                
+
                 long newTime = time+adjTime; 
                 // new Shortest path found
                 if(newTime < dist[adjNode]){
