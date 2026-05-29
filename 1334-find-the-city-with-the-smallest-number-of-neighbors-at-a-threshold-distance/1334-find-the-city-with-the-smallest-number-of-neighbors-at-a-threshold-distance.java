@@ -1,11 +1,12 @@
 class Solution {
     public int findTheCity(int n, int[][] edges, int distanceThreshold) {
         int[][] mat=new int[n][n];
+        int INF = (int)1e9;
         // 1.matrix creation
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
                 if(i==j) mat[i][j]=0;
-                else mat[i][j]=Integer.MAX_VALUE;
+                else mat[i][j]=INF;
             }
         }
         for(int[] temp:edges){
@@ -19,30 +20,27 @@ class Solution {
         for(int k=0;k<n;k++){
             for(int i=0;i<n;i++){
                 for(int j=0;j<n;j++){
-                    if(mat[i][k]==Integer.MAX_VALUE || mat[k][j]==Integer.MAX_VALUE) continue;
+                    if(mat[i][k]==INF || mat[k][j]==INF) continue;
                     //apply formula
                     mat[i][j]=Math.min(mat[i][j] , mat[i][k]+mat[k][j]);
                 }
             }
         }
-        // 3. i need to find how many values from each node are less than threshold and also i find the lessNodes
-        int[] mini=new int[n];
-        int lessNodes=Integer.MAX_VALUE;
+        // 3. i need to find how many values from each node are less than threshold and also i find the ans
+        int ans=-1;
+        int minCount=Integer.MAX_VALUE;
         for(int i=0;i<n;i++){
-            int sum=0;
+            int count=0;
             for(int j=0;j<n;j++){
                 if(mat[i][j]!=0 && mat[i][j]<=distanceThreshold){
-                    sum++;
+                    count++;
                 }
             }
-            mini[i]=sum;
-            lessNodes=Math.min(sum,lessNodes);
+            if(count<=minCount){
+                minCount=count;
+                ans=i;
+            }
         }
-        // 4 i traverse the array if any value is equal to lessNodes then i update res;
-        int res=0;
-        for(int i=0;i<n;i++){
-            if(mini[i]==lessNodes)res=i;
-        } 
-        return res;
+        return ans;
     }
 }
