@@ -32,7 +32,8 @@ class Solution {
             size[i] = 1;
         }
 
-        for (int i = 0; i < n; i++) {
+        // this takes o(n^2 ) time complexity
+        /*for (int i = 0; i < n; i++) {
             // add all mails of i to hasset
             HashSet<String> hs = new HashSet();
             List<String> nameList = accounts.get(i);
@@ -54,6 +55,20 @@ class Solution {
                 }
                 if (isUnion) {
                     unionFind(i, j);
+                }
+            }
+        } */
+
+        // can i store this privously in hashmap
+        HashMap<String , Integer> emailOwner = new HashMap<>();
+        for(int i=0;i<n;i++){
+            List<String>  account =accounts.get(i);
+            for(int j=1;j<account.size();j++){
+                String email = account.get(j);
+                if(emailOwner.containsKey(email)){
+                    unionFind(i , emailOwner.get(email));
+                }else{
+                    emailOwner.put(email,i);
                 }
             }
         }
