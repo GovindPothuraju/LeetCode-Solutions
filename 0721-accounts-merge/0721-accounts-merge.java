@@ -59,6 +59,32 @@ class Solution {
             }
         } */
 
+        /* Example
+        0 : John -> a,b
+        1 : John -> b,c
+        2 : Mary -> d
+        3 : John -> e
+
+        Process account 0:
+
+        a -> 0
+        b -> 0
+
+        Process account 1:
+
+        b already exists
+
+        union(1, 0)
+
+        c -> 1
+
+        Process account 2:
+
+        d -> 2
+
+        Process account 3:
+
+        e -> 3 */
         // can i store this privously in hashmap
         HashMap<String , Integer> emailOwner = new HashMap<>();
         for(int i=0;i<n;i++){
@@ -89,7 +115,6 @@ class Solution {
         for(int key : hm.keySet()){
             List<String> temp = new ArrayList<>();
             temp.add(accounts.get(key).get(0));
-
             for(String email : hm.get(key)){
                 temp.add(email);
             }
