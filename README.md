@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0731-my-calendar-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0731-my-calendar-ii/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [0848-shifting-letters](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0860-lemonade-change](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0731-my-calendar-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0732-my-calendar-iii/) | Hard |
+| [0778-swim-in-rising-water](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2634-minimum-common-value](https://github.com/GovindPothuraju/DSA-Problems/tree/master/2634-minimum-common-value) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0621-task-scheduler](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0743-network-delay-time](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1094-car-pooling](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1094-car-pooling/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0542-01-matrix/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [0994-rotting-oranges](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0721-accounts-merge](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0743-network-delay-time](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
@@ -349,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0721-accounts-merge](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0743-network-delay-time](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
@@ -385,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0721-accounts-merge](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0827-making-a-large-island](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
