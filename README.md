@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
