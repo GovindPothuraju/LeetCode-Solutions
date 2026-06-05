@@ -1,0 +1,120 @@
+
+import java.util.*;
+
+class Solution {
+
+    static class Pair {
+        long cnt;
+        long wavy;
+
+        Pair(long cnt, long wavy) {
+            this.cnt = cnt;
+            this.wavy = wavy;
+        }
+    }
+
+    String s;
+    Pair[][][][][] memo;
+
+    public long totalWaviness(long num1, long num2) {
+        return solve(num2) - solve(num1 - 1);
+    }
+
+    private long solve(long x) {
+        if (x < 0) return 0;
+
+        s = String.valueOf(x);
+
+        memo = new Pair[s.length()]
+                       [2]
+                       [2]
+                       [11]
+                       [11];
+
+        return dfs(0, 1, 0, 10, 10).wavy;
+    }
+
+    private Pair dfs(int pos,
+                     int tight,
+                     int started,
+                     int prev1,
+                     int prev2) {
+
+        if (pos == s.length()) {
+            return new Pair(1, 0);
+        }
+
+        if (memo[pos][tight][started][prev1][prev2] != null) {
+            return memo[pos][tight][started][prev1][prev2];
+        }
+
+        long ways = 0;
+        long wavy = 0;
+
+        int limit = tight == 1
+                ? s.charAt(pos) - '0'
+                : 9;
+
+        for (int d = 0; d <= limit; d++) {
+
+            int ntight =
+                    (tight == 1 && d == limit) ? 1 : 0;
+
+            if (started == 0 && d == 0) {
+
+                Pair child =
+                    dfs(pos + 1,
+                        ntight,
+                        0,
+                        10,
+                        10);
+
+                ways += child.cnt;
+                wavy += child.wavy;
+
+            } else {
+
+                if (started == 0) {
+
+                    Pair child =
+                        dfs(pos + 1,
+                            ntight,
+                            1,
+                            d,
+                            10);
+
+                    ways += child.cnt;
+                    wavy += child.wavy;
+
+                } else {
+
+                    int add = 0;
+
+                    if (prev2 != 10) {
+
+                        if ((prev1 > prev2 && prev1 > d)
+                                ||
+                            (prev1 < prev2 && prev1 < d)) {
+                            add = 1;
+                        }
+                    }
+
+                    Pair child =
+                        dfs(pos + 1,
+                            ntight,
+                            1,
+                            d,
+                            prev1);
+
+                    ways += child.cnt;
+
+                    wavy += child.wavy
+                            + (long)add * child.cnt;
+                }
+            }
+        }
+
+        return memo[pos][tight][started][prev1][prev2]
+                = new Pair(ways, wavy);
+    }
+}
