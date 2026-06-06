@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0731-my-calendar-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0731-my-calendar-ii/) | Medium |
+| [0766-toeplitz-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [0848-shifting-letters](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0848-shifting-letters/) | Medium |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0542-01-matrix/) | Medium |
+| [0766-toeplitz-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [0994-rotting-oranges](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
