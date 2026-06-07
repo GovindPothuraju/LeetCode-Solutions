@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1854-maximum-population-year/) | Easy |
 | [1943-describe-the-painting](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1943-describe-the-painting/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1635-number-of-good-pairs](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1635-number-of-good-pairs) |
 | [1943-describe-the-painting](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1943-describe-the-painting/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2406-decode-the-message](https://github.com/GovindPothuraju/DSA-Problems/tree/master/2406-decode-the-message) |
 | [2634-minimum-common-value](https://github.com/GovindPothuraju/DSA-Problems/tree/master/2634-minimum-common-value) |
 ## Divide and Conquer
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0437-path-sum-iii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0437-path-sum-iii/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0437-path-sum-iii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0437-path-sum-iii/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
