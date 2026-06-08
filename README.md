@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2634-minimum-common-value](https://github.com/GovindPothuraju/DSA-Problems/tree/master/2634-minimum-common-value) |
+| [3033-modify-the-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3033-modify-the-matrix/) | Easy |
 | [3355-zero-array-transformation-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [3033-modify-the-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3033-modify-the-matrix/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
