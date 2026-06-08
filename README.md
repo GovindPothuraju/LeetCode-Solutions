@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
+| [1192-critical-connections-in-a-network](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [1192-critical-connections-in-a-network](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -453,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## Biconnected Component
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 <!---LeetCode Topics End-->
