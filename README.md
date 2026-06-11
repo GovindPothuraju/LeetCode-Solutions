@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0217-contains-duplicate) |
+| [0567-permutation-in-string](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0645-set-mismatch](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0127-word-ladder](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0205-isomorphic-strings](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0205-isomorphic-strings) |
+| [0567-permutation-in-string](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0709-to-lower-case](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0721-accounts-merge](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0567-permutation-in-string](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0763-partition-labels](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [1019-squares-of-a-sorted-array](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1894-merge-strings-alternately) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0567-permutation-in-string](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
