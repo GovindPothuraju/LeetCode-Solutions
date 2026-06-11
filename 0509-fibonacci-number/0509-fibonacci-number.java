@@ -15,16 +15,33 @@ class Solution {
     
 
     // 2 bottom up (Tabulation)
-    public int fib(int n) {
-        if(n<2) return n;
+    // public int fib(int n) {
+    //     if(n<2) return n;
         
-        int[] dp=new int[n+1];
-        dp[0]=0;
-        dp[1]=1;
+    //     int[] dp=new int[n+1];
+    //     dp[0]=0;
+    //     dp[1]=1;
 
-        for(int i=2;i<=n;i++){
-            dp[i]=dp[i-2]+dp[i-1];
+    //     for(int i=2;i<=n;i++){
+    //         dp[i]=dp[i-2]+dp[i-1];
+    //     }
+    //     return dp[n];
+    // }
+
+    // 3 space optimization
+    public int fib(int n){
+        if(n<=1)return n;
+        int a=0;
+        int b=1;
+
+        int c=0;
+        while(n>1){
+            c = a+b;
+            a=b;
+            b=c;
+
+            n--;
         }
-        return dp[n];
+        return c;
     }
 }
