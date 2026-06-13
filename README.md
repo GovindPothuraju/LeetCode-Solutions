@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0213-house-robber-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0542-01-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0542-01-matrix/) | Medium |
