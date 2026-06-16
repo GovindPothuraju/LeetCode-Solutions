@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
