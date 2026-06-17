@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0182-duplicate-emails](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0182-duplicate-emails/) | Easy |
 | [0584-find-customer-referee](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Enumeration
