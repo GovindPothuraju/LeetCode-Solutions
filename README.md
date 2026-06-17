@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0038-count-and-say](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0091-decode-ways](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0127-word-ladder](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0205-isomorphic-strings](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0567-permutation-in-string](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0091-decode-ways](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
