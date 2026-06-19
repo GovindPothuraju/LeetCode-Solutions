@@ -7,15 +7,9 @@ class Solution {
                 if(i==0 && j==0){
                     continue;
                 }
-                int top = Integer.MAX_VALUE;
-                int left = Integer.MAX_VALUE;
-                if(i>0){
-                    top = grid[i-1][j];
-                }
-                if(j>0){
-                    left = grid[i][j-1];
-                }
-                grid[i][j] = grid[i][j]+Math.min(top,left);
+                int top = i>0 ? grid[i-1][j] : Integer.MAX_VALUE ;
+                int left = j>0 ? grid[i][j-1] : Integer.MAX_VALUE;
+                grid[i][j] += Math.min(top,left);
             }
         }
         return grid[n-1][m-1];
