@@ -1,6 +1,8 @@
 class Solution {
     public int minFallingPathSum(int[][] matrix) {
         int n = matrix.length;
+        if(n==1)return matrix[0][0];
+        int res = Integer.MAX_VALUE;
         for(int i=1;i<n;i++){
             for(int j=0;j<n;j++){
                 //top
@@ -12,12 +14,12 @@ class Solution {
 
                 int min = Math.min(top,Math.min(leftDiag,rightDiag));
                 matrix[i][j] += min;
+
+                if(i==n-1){
+                    res = Math.min(res,matrix[n-1][j]);
+                }
             }
         }
-        int min = Integer.MAX_VALUE;
-        for(int j=0;j<n;j++){
-            min = Math.min(min,matrix[n-1][j]);
-        }
-        return min;
+        return res;
     }
 }
