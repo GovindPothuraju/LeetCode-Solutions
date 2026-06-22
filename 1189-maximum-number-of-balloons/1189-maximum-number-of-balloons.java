@@ -9,20 +9,16 @@ class Solution {
                 hm.put(ch,hm.getOrDefault(ch,0)+1);
             }
         }
-        System.out.println(hm);
-        int count = 0;
-        String temp = "balloon";
-        while(hm.size() == 5){
-            for(int i=0;i<temp.length();i++){
-                char ch = temp.charAt(i);
-                if(!hm.containsKey(ch)){
-                    return count;
-                }
-                hm.put(ch,hm.get(ch)-1);
-                if(hm.get(ch) == 0)hm.remove(ch);
-            }
-            count++;
-        }
-        return  count;
+        return Math.min(
+        Math.min(hm.getOrDefault('b',0),
+                hm.getOrDefault('a',0)),
+        Math.min(
+            hm.getOrDefault('l',0)/2,
+            Math.min(
+                hm.getOrDefault('o',0)/2,
+                hm.getOrDefault('n',0)
+            )
+        )
+    );
     }
 }
