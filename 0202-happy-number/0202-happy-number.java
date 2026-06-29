@@ -1,18 +1,22 @@
 class Solution {
     public boolean isHappy(int n) {
-        Set<Integer> hs=new HashSet<>();
-        while(n!=1 && !hs.contains(n)){
+        HashSet<Integer> hs = new HashSet<>();
+        while(n!=1){
             hs.add(n);
-            n=square(n);
+            int square = getSquare(n);
+            if(hs.contains(square)){
+                return false;
+            }
+            n = square;
         }
-        return n==1;
+        return true;
     }
-    public int square(int n){
-        int sum=0;
-        while(n>0){
-            int x=n%10;
-            sum+=x*x;
-            n/=10;
+    private int getSquare(int num){
+        int sum = 0;
+        while(num>0){
+            int digit = num%10;
+            sum = sum + digit*digit;
+            num/=10;
         }
         return sum;
     }
