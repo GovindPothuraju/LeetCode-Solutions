@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0169-majority-element](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0062-unique-paths](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0202-happy-number](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1635-number-of-good-pairs](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1635-number-of-good-pairs) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0202-happy-number](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
