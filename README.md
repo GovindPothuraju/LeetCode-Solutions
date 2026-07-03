@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0721-accounts-merge](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0731-my-calendar-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0645-set-mismatch](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0721-accounts-merge](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [1019-squares-of-a-sorted-array](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1029-two-city-scheduling/) | Medium |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0763-partition-labels](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [1019-squares-of-a-sorted-array](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1894-merge-strings-alternately) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0731-my-calendar-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0732-my-calendar-iii/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0621-task-scheduler](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -326,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0567-permutation-in-string](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Monotonic Queue
