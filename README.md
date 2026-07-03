@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3355-zero-array-transformation-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2634-minimum-common-value](https://github.com/GovindPothuraju/DSA-Problems/tree/master/2634-minimum-common-value) |
 | [3356-zero-array-transformation-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3356-zero-array-transformation-ii/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Simulation
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -549,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -557,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
