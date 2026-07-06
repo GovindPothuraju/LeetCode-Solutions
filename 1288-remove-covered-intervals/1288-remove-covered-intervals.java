@@ -7,9 +7,6 @@ class Solution {
             }
             return a[1]-b[1];
         });
-        // for(int i=0;i<n;i++){
-        //     System.out.println(Arrays.toString(intervals[i]));
-        // }
         boolean[] visited = new boolean[n];
         int count=0;
         for(int i=1;i<n;i++){
