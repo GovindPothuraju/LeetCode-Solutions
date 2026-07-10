@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3355-zero-array-transformation-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1943-describe-the-painting](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1943-describe-the-painting/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Counting
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2634-minimum-common-value](https://github.com/GovindPothuraju/DSA-Problems/tree/master/2634-minimum-common-value) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Bit Manipulation
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0645-set-mismatch](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0645-set-mismatch) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/GovindPothuraju/DSA-Problems/tree/master/2634-minimum-common-value) |
 | [3356-zero-array-transformation-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -307,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -380,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -539,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
