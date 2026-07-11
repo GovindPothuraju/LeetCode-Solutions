@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0542-01-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0542-01-matrix/) | Medium |
