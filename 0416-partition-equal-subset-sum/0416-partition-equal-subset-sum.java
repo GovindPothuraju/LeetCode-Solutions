@@ -1,64 +1,34 @@
-/*class Solution {
-    boolean res = false;
-    public boolean canPartition(int[] nums) {
-        int n = nums.length;
-        int sum = 0;
-        for(int i=0;i<n;i++){
-            sum+=nums[i];
-        }
-        int half = sum/2;
-        if(sum%2!=0){
-            return false;
-        }
-        for(int i=0;i<n;i++){
-            if(backtrack(i,half-nums[i],nums)){
-                return true;
-            }
-        }
-        return false;
-    }
-    private boolean backtrack(int st,int sum,int[] nums){
-        if(sum == 0)return true;
-        if(sum<0)return false;
-
-        for(int i=st+1;i<nums.length;i++){
-            if(backtrack(i,sum-nums[i],nums)){
-                return true;
-            }
-        }
-        return false;
-    }
-}*/
-
-// uisng dp
 class Solution {
     public boolean canPartition(int[] nums) {
         int n = nums.length;
         int sum = 0;
-
-        for(int i=0;i<n;i++)  sum+=nums[i];
-        if(sum%2!=0) return false;
-
+        for (int num : nums) {
+            sum += num;
+        }
+        if (sum % 2 != 0)
+            return false;
         int target = sum/2;
-
-        int[][] dp = new int[n][target+1];
-        for(int[] temp : dp){
-            Arrays.fill(temp,-1);
+        int[][] dp = new int[n][target + 1];
+        for (int[] temp : dp) {
+            Arrays.fill(temp, -1);
         }
-        return backtrack(n-1,target,nums,dp);
+        return backtrack(n - 1, nums, target, dp);
     }
-    private boolean backtrack(int st,int target,int[] nums,int[][] dp){
-        if(target == 0)return true;
-        if(st == 0)return nums[0]==target;
 
-        if(dp[st][target] != -1) return dp[st][target]==0?false:true;
+    private boolean backtrack(int st, int[] arr, int target, int[][] dp) {
+        if (target == 0)
+            return false;
+        if (st == 0)
+            return arr[st] == target;
 
-        boolean notTaken = backtrack(st-1,target,nums,dp);
-        boolean taken = false;
-        if(target >= nums[st]){
-            taken = backtrack(st-1,target-nums[st],nums,dp);
+        if (dp[st][target] != -1)
+            return dp[st][target] == 1 ? true : false;
+        boolean notTake = backtrack(st - 1, arr, target, dp);
+        boolean take = false;
+        if (target >= arr[st]) {
+            take = backtrack(st - 1, arr, target - arr[st], dp);
         }
-        dp[st][target] = taken || notTaken ? 1 : 0;
-         return dp[st][target]==0?false:true;
+        dp[st][target] = take || notTake ? 1 : 0;
+        return take || notTake;
     }
 }
