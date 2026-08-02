@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [0848-shifting-letters](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0860-lemonade-change](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
+| [0877-stone-game](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1635-number-of-good-pairs](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1806-count-of-matches-in-tournament) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0877-stone-game](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
@@ -705,4 +708,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
