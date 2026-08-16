@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1635-number-of-good-pairs](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1635-number-of-good-pairs) |
 | [1854-maximum-population-year](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1854-maximum-population-year/) | Easy |
+| [2029-stone-game-ix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2029-stone-game-ix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -747,22 +751,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
