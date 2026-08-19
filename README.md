@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1488-avoid-flood-in-the-city](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1488-avoid-flood-in-the-city](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1635-number-of-good-pairs](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1635-number-of-good-pairs) |
 | [1943-describe-the-painting](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1943-describe-the-painting/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0732-my-calendar-iii/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1488-avoid-flood-in-the-city](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2634-minimum-common-value](https://github.com/GovindPothuraju/DSA-Problems/tree/master/2634-minimum-common-value) |
 | [3312-sorted-gcd-pair-queries](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1094-car-pooling/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1488-avoid-flood-in-the-city](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -394,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1488-avoid-flood-in-the-city](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2029-stone-game-ix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
