@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1635-number-of-good-pairs](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1635-number-of-good-pairs) |
 | [1943-describe-the-painting](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1943-describe-the-painting/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0645-set-mismatch](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0645-set-mismatch) |
+| [1386-cinema-seat-allocation](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2029-stone-game-ix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
