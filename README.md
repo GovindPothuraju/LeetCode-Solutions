@@ -741,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0176-second-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0182-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0197-rising-temperature/) | Easy |
+| [0577-employee-bonus](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
