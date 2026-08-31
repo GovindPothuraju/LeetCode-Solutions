@@ -748,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1934-confirmation-rate](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1934-confirmation-rate/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
