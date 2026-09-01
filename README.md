@@ -740,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0176-second-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0182-duplicate-emails/) | Easy |
+| [0196-delete-duplicate-emails](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0577-employee-bonus/) | Easy |
