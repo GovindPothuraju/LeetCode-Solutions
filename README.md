@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0437-path-sum-iii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0437-path-sum-iii/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Depth-First Search
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0437-path-sum-iii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0437-path-sum-iii/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
