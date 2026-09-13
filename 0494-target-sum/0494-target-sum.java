@@ -13,13 +13,10 @@ class Solution {
 
         int s2 = (total-target)/2;
         int[][] dp = new int[n][s2+1];
-        
- 
+       
         // base case - 1 (fill all first column 1)
-        if(nums[0]==0){
-            dp[0][0]=2;
-        }else {
-            dp[0][0]=1;
+        for(int i=0;i<n;i++){
+            dp[i][0]=1;
         }
         // base case -2 (if first element is 0)
         if(nums[0] == 0){
