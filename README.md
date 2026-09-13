@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0486-predict-the-winner](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0494-target-sum](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0542-01-matrix/) | Medium |
 | [0621-task-scheduler](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0486-predict-the-winner](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0494-target-sum](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0542-01-matrix/) | Medium |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0494-target-sum](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Stack
@@ -836,10 +839,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
+| [0494-target-sum](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
