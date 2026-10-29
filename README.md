@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0127-word-ladder](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0169-majority-element](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/GovindPothuraju/DSA-Problems/tree/master/0205-isomorphic-strings) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Topological Sort
