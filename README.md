@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1894-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2406-decode-the-message](https://github.com/GovindPothuraju/DSA-Problems/tree/master/2406-decode-the-message) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
