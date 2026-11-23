@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1406-stone-game-iii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1635-number-of-good-pairs](https://github.com/GovindPothuraju/DSA-Problems/tree/master/1635-number-of-good-pairs) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1140-stone-game-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1854-maximum-population-year](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1854-maximum-population-year/) | Easy |
 | [1872-stone-game-viii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0731-my-calendar-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0732-my-calendar-iii/) | Hard |
+| [1352-product-of-the-last-k-numbers](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -860,4 +864,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
