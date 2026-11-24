@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3355-zero-array-transformation-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3356-zero-array-transformation-ii/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -809,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GovindPothuraju/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
